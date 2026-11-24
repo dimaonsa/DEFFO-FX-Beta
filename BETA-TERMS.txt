@@ -1,0 +1,16 @@
+DEFFO FX — SUBSCRIBER BETA TESTING TERMS
+Author: Dima Onsa (@dimaonsa)
+Copyright 2026 Dima Onsa.
+Build: DEFFO-FX-RC16-TG-BETA-20261109
+
+This package is provided for personal evaluation and feedback while the official
+Figma Community submission is under review. You may install and run this beta
+for testing. Do not redistribute, sell, upload, republish or release modified
+copies of DEFFO FX without the author's written permission.
+
+No permission to publish this package to Figma Community is granted. These
+conditions describe the permitted use; they are not a technical copy lock.
+
+The software is a test build and may contain bugs. Test on copies of your work.
+Third-party font licenses remain in force and are supplied in LICENSES/.
+These terms do not replace or restrict permissions granted by those licenses.
